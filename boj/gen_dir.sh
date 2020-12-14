@@ -15,6 +15,6 @@ if [ -d "$prob_num" ]
 fi
 
 mkdir $prob_num
-touch ./$prob_num/a.py ./$prob_num/input.txt
+touch ./$prob_num/a.py ./$prob_num/input.txt ./$prob_num/note.md
 
 echo The No.$prob_num Problem is generated.
