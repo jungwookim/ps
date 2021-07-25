@@ -1,0 +1,15 @@
+add cnt 0
+cnt 2++
+cnt 2++
+cnt 2++
+cnt 1++ deque(['1'])
+add cnt 4
+cnt 2++
+cnt 1++ deque(['1'])
+add cnt 2
+cnt 2++
+cnt 1++ deque(['1', '2', '3'])
+add cnt 4
+cnt 1++ deque(['1', '2', '3', '4'])
+add cnt 4
+0
