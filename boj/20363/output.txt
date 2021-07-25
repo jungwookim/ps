@@ -1,0 +1,13 @@
+i 0 delta 123456
+False x 123456 current 123456 y 12345 current y 0
+i 1 delta 12345
+False x 123456 current 122222 y 12345 current y 12345
+i 0 delta 1234
+False x 123456 current 123456 y 12345 current y 12222
+i 1 delta 123
+False x 123456 current 123444 y 12345 current y 12345
+i 0 delta 12
+False x 123456 current 123456 y 12345 current y 12344
+i 1 delta 1
+False x 123456 current 123456 y 12345 current y 12345
+137171
