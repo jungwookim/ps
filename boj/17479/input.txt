@@ -1,0 +1,17 @@
+3 2 3
+noodle 10000
+tteokbokki 5000
+sundae 7000
+cutlet 12000
+friedrice 8000
+dumpling
+potatochips
+fishcake
+7
+noodle
+noodle
+cutlet
+friedrice
+cutlet
+potatochips
+friedrice
