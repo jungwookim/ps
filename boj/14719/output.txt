@@ -1,0 +1,17 @@
+hi 1 height 0 wi 2
+hi 1 height 1 wi 0
+hi 1 height 1 wi 0
+hi 1 height 1 wi 2
+hi 2 height 0 wi 2
+hi 2 height 2 wi 0
+hi 2 height 2 wi 0
+hi 2 height 2 wi 2
+hi 3 height 0 wi 2
+hi 3 height 0 wi 0
+hi 3 height 0 wi 0
+hi 3 height 0 wi 2
+hi 4 height 0 wi 2
+hi 4 height 0 wi 0
+hi 4 height 0 wi 0
+hi 4 height 0 wi 2
+4
