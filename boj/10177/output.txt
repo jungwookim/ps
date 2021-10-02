@@ -1,0 +1,4 @@
+Magic square of size 3
+Not a magic square
+Magic square of size 4
+Magic square of size 2
